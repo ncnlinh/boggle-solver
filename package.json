@@ -4,15 +4,17 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "start": "vite --port 5174",
     "dev": "vite --port 5174",
     "build": "vite build",
     "preview": "vite preview",
     "update-dict": "node scripts/update-dictionary.js"
   },
   "dependencies": {
+    "lucide-react": "^0.294.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "lucide-react": "^0.294.0"
+    "tesseract.js": "^7.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
