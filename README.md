@@ -2,6 +2,8 @@
 
 A beautiful, interactive Boggle solver built with React, Vite, and Tailwind CSS. Enter your Boggle grid, customize the dictionary, and instantly find all possible words!
 
+**Live: https://boggle.linh.cc**
+
 ## Features
 
 - 🎯 **Interactive Grid Input** - 4x4, 5x5, or 6x6 grid sizes
